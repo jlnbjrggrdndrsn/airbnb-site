@@ -2,7 +2,7 @@ import "./Icon.css"
 
 const Icon = () => {
     return ( 
-        <i class="fa-solid fa-heart"></i>
+        <i className="fa-solid fa-heart"></i>
      );
 }
  
