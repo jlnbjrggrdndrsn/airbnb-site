@@ -1,0 +1,7 @@
+.Bluebox {
+    display: flex;
+    justify-content: space-between;
+    background-color: #CEF9FF;
+    padding: 1rem;
+    box-sizing: border-box;
+}
